@@ -14,3 +14,6 @@ Visit https://minamiren.github.io/MPGDBuild/[VERSION]/index.html
 - 1-6: Use HotBar item
 - Left Click: Move items from HotBar to inventory, Delete from inventory, UI select
 - Space: Attack enemy
+
+### Sources:
+- Inventory system: https://www.youtube.com/watch?v=AoD_F1fSFFg
