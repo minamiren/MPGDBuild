@@ -5,15 +5,16 @@ You must survive while fighting off enemies in order to escape the place that yo
 
 ## How to play:
 Visit https://minamiren.github.io/MPGDBuild/[VERSION]/index.html
-- Current version is: v1.0
+- Current version is: v2.0
 
 ## Controls:
-- WASD/Arrows: Movement
-- Mouse: Look Direction
-- E: Interact with inventory trunk
-- 1-6: Use HotBar item
-- Left Click: Move items from HotBar to inventory, Delete from inventory, UI select
-- Space: Attack enemy
+- Mouse Movement: Look around
+- WASD/Arrows: Move
+- Space: Jump
+- Mouse Left Click: Attack
+- E: Interact with object
+- 1-6: Use from HotBar
+- ESC Key: Pause Menu / Show Cursor
 
 ### Sources:
 - Inventory system: https://www.youtube.com/watch?v=AoD_F1fSFFg
